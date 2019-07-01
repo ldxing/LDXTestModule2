@@ -1,0 +1,16 @@
+PODS:
+  - LDXTestModule2 (0.1.0)
+
+DEPENDENCIES:
+  - LDXTestModule2 (from `../`)
+
+EXTERNAL SOURCES:
+  LDXTestModule2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LDXTestModule2: dba939e94784954b0581021e0d66cd7e45d12d56
+
+PODFILE CHECKSUM: d201ab6ad775d0fcd7b3b202efa97be136b62f3e
+
+COCOAPODS: 1.7.2

@@ -1,0 +1,6 @@
+framework module LDXTestModule2 {
+  umbrella header "LDXTestModule2-umbrella.h"
+
+  export *
+  module * { export * }
+}
