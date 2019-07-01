@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LDXTestModule2_Example' do
+  pod 'LDXTestModule2', :path => '../'
+
+  target 'LDXTestModule2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
